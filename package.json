@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "targets": {
     "default": {
-      "distDir": "./dist",
+      "distDir": "./dist2",
       "publicUrl": "/goit-js-hw-08/"
     }
   },
