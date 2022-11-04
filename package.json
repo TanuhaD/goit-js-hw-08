@@ -11,8 +11,7 @@
     }
   },
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
+    "start": "parcel"
   },
   "repository": {
     "type": "git",
@@ -26,8 +25,7 @@
   "homepage": "https://github.com/TanuhaD/goit-js-hw-08#readme",
   "devDependencies": {
     "parcel": "^2.7.0",
-    "parcel-reporter-clean-dist": "^1.0.4",
-    "posthtml-include": "^1.7.4"
+    "parcel-reporter-clean-dist": "^1.0.4"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
