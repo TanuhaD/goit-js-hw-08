@@ -3,6 +3,7 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 import { galleryItems } from './gallery-items';
 
 const gallery = document.querySelector('.gallery');
+
 function makeMarkup() {
   let markup = '';
   for (const item of galleryItems) {
