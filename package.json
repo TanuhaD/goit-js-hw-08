@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/TanuhaD/goit-js-hw-08#readme",
   "devDependencies": {
-    "parcel": "^2.7.0",
-    "parcel-reporter-clean-dist": "^1.0.4"
+    "parcel": "^2.7.0"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0",
+    "@vimeo/player": "^2.18.0",
+    "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.10.4"
   }
 }
